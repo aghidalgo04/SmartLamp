@@ -59,7 +59,7 @@ SmartLamp/
 │
 ├── Imde-comp/                     # PC Interface Software (Component)
 ├── Hojas técnicas-20251026/       # Component Datasheets (Sensors/MCU)
-└── README.md                      # Project Documentation
+└── Documentación/                     # Project Documentation
 ```
 
 ---
