@@ -1,2 +1,3 @@
 *.py linguist-vendored
 Imde-comp/* linguist-vendored
+Desarrollo/MPLAB/SoftWare/SoftWareTest.X/* linguist-vendored
